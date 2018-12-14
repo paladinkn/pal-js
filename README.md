@@ -1,1 +1,1 @@
-# pal-js
+# pal project
